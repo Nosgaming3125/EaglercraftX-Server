@@ -936,3 +936,34 @@
 
 [06:47:07] [Server thread/INFO]: the_big_homie lost connection: Disconnected
 [06:47:07] [Server thread/INFO]: the_big_homie left the game.
+[06:47:33] [Server thread/INFO]: Stopping the server
+[06:47:33] [Server thread/INFO]: Stopping server
+[06:47:33] [Server thread/INFO]: Disabling EssentialsChat v2.21.0-dev+121-f7a8f86
+[06:47:33] [Server thread/INFO]: Disabling Essentials v2.21.0-dev+121-f7a8f86
+[06:47:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[06:47:33] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.2.0
+[06:47:33] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[06:47:33] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[06:47:33] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[06:47:33] [Server thread/INFO]: [OpenInv] Disabling OpenInv v2.3.4
+[06:47:33] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.3.6
+[06:47:33] [Server thread/INFO]: [NickNamesX] Disabling NickNamesX v2.6.3
+[06:47:33] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[06:47:33] [Server thread/INFO]: [SimpleHomes] Disabling SimpleHomes v2.2
+[06:47:33] [Server thread/INFO]: [PlugMan] Disabling PlugMan v1.0-SNAPSHOT
+[06:47:33] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[06:47:33] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[06:47:33] [Server thread/INFO]: [LuckPerms] Closing storage...
+[06:47:33] [Server thread/INFO]: [LuckPerms] Goodbye!
+[06:47:33] [Server thread/INFO]: [SimpleTpa] Disabling SimpleTpa v7.3
+[06:47:33] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9[m
+
+[06:47:33] [Server thread/INFO]: [0;36;1m[21m[SimpleTpa] Simple Tpa has been disabled on version 7.3[m
+
+[06:47:33] [Server thread/INFO]: Saving players
+[06:47:33] [Server thread/INFO]: NOSgaming3125 lost connection: Server closed
+[06:47:33] [Server thread/INFO]: NOSgaming3125 left the game.
+[06:47:33] [Server thread/INFO]: Saving worlds
+[06:47:33] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[06:47:33] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[06:47:33] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

@@ -268,3 +268,6 @@
 [06:47:07] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:36782|the_big_homie] -> UpstreamBridge has disconnected
 [06:47:07] [Netty Worker IO Thread #7/INFO]: [the_big_homie] disconnected with: Proxy lost connection to server.
 [06:47:07] [Netty Worker IO Thread #7/INFO]: [/[0:0:0:0:0:0:0:1%0]:36782|the_big_homie] <-> DownstreamBridge <-> [lobby] has disconnected
+[06:47:33] [Netty Worker IO Thread #5/INFO]: [NOSgaming3125] disconnected with: Server closed
+[06:47:33] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:48282|NOSgaming3125] -> UpstreamBridge has disconnected
+[06:47:33] [Netty Worker IO Thread #5/INFO]: [/[0:0:0:0:0:0:0:1%0]:48282|NOSgaming3125] <-> DownstreamBridge <-> [lobby] has disconnected

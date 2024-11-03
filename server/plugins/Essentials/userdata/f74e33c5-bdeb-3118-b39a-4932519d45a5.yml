@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1730616369011
+  logout: 1730616453310
   login: 1730616371213
 money: '0'
 logoutlocation:
   world: c4342da6-f0d4-45e0-823a-22d7be8acdf3
   world-name: world
-  x: 63.58534507126161
-  y: 88.17088295004868
-  z: -431.68270117184306
-  yaw: 98.8499984741211
-  pitch: 38.399993896484375
+  x: 78.6524710334763
+  y: 73.98952282863073
+  z: -457.1452277312793
+  yaw: 232.0500030517578
+  pitch: 11.249991416931152
 last-account-name: NOSgaming3125
 lastlocation:
   world: c4342da6-f0d4-45e0-823a-22d7be8acdf3
