@@ -13,7 +13,9 @@ For this tutorial, we will be using Ubuntu 22.04 LTS. First of all, java is requ
 Now, we need to clone the server repo using `git`. Please run the following command:
 <br>
 <br>
-`git clone CaenJones/EaglercraftX-Server`
+Installing java: `sudo apt clean
+sudo apt update
+sudo apt install openjdk-17-jdk`
 <br>
 <br>
 Now, open 2 terminal tabs in the new server directory and paste in the following snipits:
@@ -23,6 +25,11 @@ first tab: `cd server && sudo java -jar server.jar`
 <br>
 <br>
 second tab: `cd bungee && sudo java -jar bungee.jar`
+<br>
+<br>
+Installing java: `sudo apt clean
+sudo apt update
+sudo apt install openjdk-17-jdk`
 <br>
 <br>
 ## Making Server Public

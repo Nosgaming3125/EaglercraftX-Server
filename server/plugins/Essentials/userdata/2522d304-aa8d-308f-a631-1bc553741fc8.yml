@@ -16,15 +16,15 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1730615602744
-  login: 1730615589350
+  logout: 1730685602451
+  login: 1730685548154
 money: '0'
 last-account-name: Sapnap
 logoutlocation:
   world: c4342da6-f0d4-45e0-823a-22d7be8acdf3
   world-name: world
-  x: -237.57127335456198
+  x: -214.5
   y: 64.0
-  z: -62.53699584470132
-  yaw: 101.25000762939453
-  pitch: 27.600004196166992
+  z: -60.5
+  yaw: 0.0
+  pitch: 0.0
