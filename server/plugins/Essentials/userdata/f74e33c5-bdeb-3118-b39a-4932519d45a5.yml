@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1730686646912
+  logout: 1730687007580
   login: 1730686669518
 money: '0'
 lastlocation:
@@ -30,9 +30,9 @@ lastlocation:
 logoutlocation:
   world: d5ab9d54-d717-4aaf-b5d5-1b31bd882b3a
   world-name: Survival
-  x: 2.699999988079071
-  y: 63.0
-  z: -7.705187512002569
-  yaw: -139.7999267578125
-  pitch: 10.349992752075195
+  x: -116.77432512951916
+  y: 73.0
+  z: 1316.30370806075
+  yaw: 82.6501235961914
+  pitch: 30.7499942779541
 last-account-name: NOSgaming3125

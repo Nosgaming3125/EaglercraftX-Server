@@ -182,3 +182,6 @@
 [02:17:49] [Netty Worker IO Thread #0/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:55510]: Logged in as 'NOSgaming3125'
 [02:17:49] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:55510|NOSgaming3125] -> UpstreamBridge has connected
 [02:17:49] [Netty Worker IO Thread #0/INFO]: [NOSgaming3125|/[0:0:0:0:0:0:0:1%0]:55510] <-> ServerConnector [lobby] has connected
+[02:23:27] [Netty Worker IO Thread #0/INFO]: [NOSgaming3125] disconnected with: Proxy lost connection to server.
+[02:23:27] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:55510|NOSgaming3125] <-> DownstreamBridge <-> [lobby] has disconnected
+[02:23:27] [Netty Worker IO Thread #0/INFO]: [/[0:0:0:0:0:0:0:1%0]:55510|NOSgaming3125] -> UpstreamBridge has disconnected
