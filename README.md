@@ -3,12 +3,13 @@
 You only need to open the console using this command:
 <br>
 <br>
+`Run: chmod +x main.sh`
+<br>
+<br>
+`./main.sh`
+<br>
+<br>
 `tmux attach-session -t server_session`
-<br>
-<br>
-Start the server:
-chmod +x main.sh
-./main.sh
 <br>
 <br>
 ## Making Server Public
