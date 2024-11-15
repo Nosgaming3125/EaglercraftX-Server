@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.31.196.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1731118163847
+  login: 1731118065643
+money: '0'
+last-account-name: Donavin_
+lastlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -550.5
+  y: 68.0
+  z: 10049.5
+  yaw: -63.49275588989258
+  pitch: 19.04999351501465
+logoutlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -612.6198412369724
+  y: 89.08281185697957
+  z: 9929.873651743292
+  yaw: 331.0500183105469
+  pitch: 17.25

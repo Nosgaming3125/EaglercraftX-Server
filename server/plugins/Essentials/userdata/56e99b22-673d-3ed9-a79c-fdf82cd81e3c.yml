@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 0:0:0:0:0:0:0:1
+ip-address: 172.31.196.45
 afk: false
 socialspy: false
 npc: false
@@ -11,20 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1731003443860
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1730667090234
-  login: 1730667054707
+  logout: 1731081005219
+  login: 1731080763872
 money: '0'
 last-account-name: Bossman1456
 logoutlocation:
-  world: c4342da6-f0d4-45e0-823a-22d7be8acdf3
-  world-name: world
-  x: -220.15868287712343
-  y: 66.0
-  z: -61.23811356095524
-  yaw: -174.30001831054688
-  pitch: -41.70000457763672
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -511.63652383251315
+  y: 72.90837069429078
+  z: 10061.699999988079
+  yaw: -17.100326538085938
+  pitch: 16.79999351501465
+lastlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -512.0407038998682
+  y: 68.0
+  z: 10067.997888015434
+  yaw: -179.10003662109375
+  pitch: 8.550008773803711

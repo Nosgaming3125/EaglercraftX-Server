@@ -1,0 +1,71 @@
+disallowHubCommandNoPerm: true
+Settings:
+  Enable_Per_World_Inventories: true
+  Enable_Per_World_Ender_Chests: true
+  Enable_Teleport_To_Spawn_If_Same_World: true
+auto-update: true
+Version: 3.7.83
+hasBungee: true
+CustomWorlds:
+  build:
+    Seeds: -6188531851957835328
+  creative:
+    Seeds: -5723504155090522831
+Worlds:
+  world:
+    name: world
+    displayname: World
+    spawnLoc:
+      x: -216.0
+      y: 64.0
+      z: -61.0
+      yaw: 1.15625
+      pitch: 2.765625
+      w: world
+    weatherstate: NORMAL
+    i: 0
+    save: world
+    desc: ''
+    gamemode: SURVIVAL
+    color: 0
+    hidden: false
+    canuseportals: true
+    maxPlayers: -1
+  creative:
+    name: creative
+    displayname: Creative
+    spawnLoc:
+      x: -499.376
+      y: 69.0
+      z: 10000.421
+      yaw: 1.15625
+      pitch: 2.765625
+      w: creative
+    weatherstate: NORMAL
+    i: 1
+    save: creative
+    desc: ''
+    gamemode: SURVIVAL
+    color: 0
+    hidden: false
+    canuseportals: false
+    maxPlayers: -1
+  Survival:
+    name: Survival
+    displayname: Survival
+    spawnLoc:
+      x: -119.0
+      y: 73.0
+      z: 1316.0
+      yaw: 89.71875
+      pitch: 9.125
+      w: Survival
+    weatherstate: NORMAL
+    i: 2
+    save: Survival
+    desc: ''
+    gamemode: SURVIVAL
+    color: 0
+    hidden: false
+    canuseportals: false
+    maxPlayers: -1

@@ -10,6 +10,14 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
+    gold:
+        min: {x: -529.0, y: 81.0, z: 10073.0}
+        max: {x: -528.0, y: 83.0, z: 10098.0}
+        members: {}
+        flags: {interact: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
     '1':
         min: {x: -501.0, y: 68.0, z: 9999.0}
         max: {x: -496.0, y: 68.0, z: 10001.0}
@@ -23,6 +31,54 @@ regions:
         max: {x: -500.0, y: 69.0, z: 10000.0}
         members: {}
         flags: {passthrough: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    partha:
+        min: {x: -603.0, y: 68.0, z: 9986.0}
+        max: {x: -572.0, y: 89.0, z: 10058.0}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    stairsss:
+        min: {x: -530.0, y: 68.0, z: 10041.0}
+        max: {x: -529.0, y: 77.0, z: 10050.0}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    oak:
+        min: {x: -532.0, y: 76.0, z: 10051.0}
+        max: {x: -527.0, y: 77.0, z: 10054.0}
+        members: {}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    wood:
+        min: {x: -529.0, y: 77.0, z: 10057.0}
+        max: {x: -524.0, y: 80.0, z: 10071.0}
+        members: {}
+        flags: {interact: allow}
+        owners: {}
+        type: cuboid
+        priority: 0
+    bedrock12:
+        min: {x: -536.0, y: 101.0, z: 10148.0}
+        max: {x: -530.0, y: 105.0, z: 10152.0}
+        members: {}
+        flags: {block-break: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
+    stuff:
+        min: {x: -533.0, y: 84.0, z: 10101.0}
+        max: {x: -528.0, y: 89.0, z: 10127.0}
+        members: {}
+        flags: {interact: allow}
         owners: {}
         type: cuboid
         priority: 0

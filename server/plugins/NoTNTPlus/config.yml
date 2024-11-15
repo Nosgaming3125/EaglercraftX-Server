@@ -1,0 +1,88 @@
+# NoTNTPlus Configuration File
+update-checker: true
+admin-broadcast-alerts: true
+tnt:
+  place:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  interact:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  explosion:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  pickup:
+    disable: true
+    disabled-wolds:
+    - yourWorld
+tntminecart:
+  place:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  interact:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  explosion:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  pickup:
+    disable: true
+    disabled-wolds:
+    - yourWorld
+creeperegg:
+  place:
+    disable: false
+    disabled-worlds:
+    - yourWorld
+  interact:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  explosion:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  pickup:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+bed:
+  place:
+    disable: false
+    disabled-worlds:
+    - yourWorld
+  interact:
+    disable: false
+    disabled-worlds:
+    - yourWorld
+  explosion:
+    disable: true
+    disabled-worlds:
+    - yourWorld
+  pickup:
+    disable: false
+    disabled-wolds:
+    - yourWorld
+damage:
+  disable-for-players: true
+  disable-for-mobs: true
+  mobs-list:
+  - PIG
+  - HORSE
+  - VILLAGER
+  - IRON-GOLEM
+  - COW
+  - CHICKEN
+  - FOX
+  - PARROT
+  - PANDA
+  - POLAR-BEAR
+  - LAMA
+  disabled-worlds:
+  - yourWorld

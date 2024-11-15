@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.155.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730744676022
+  login: 1730744449426
+money: '0'
+last-account-name: Mysterio
+logoutlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -470.5798870931553
+  y: 82.35628695066703
+  z: 10035.816277490829
+  yaw: 76.79993438720703
+  pitch: 46.04999923706055
+lastlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -522.403889286208
+  y: 68.0
+  z: 10046.443112583796
+  yaw: -220.65005493164062
+  pitch: 14.400009155273438

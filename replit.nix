@@ -1,5 +1,6 @@
 { pkgs }: {
     deps = [
+      pkgs.lsof
         pkgs.bashInteractive
         pkgs.man
         pkgs.jq

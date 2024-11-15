@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.155.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730689924905
+  login: 1730689825713
+money: '0'
+last-account-name: Sapnap
+logoutlocation:
+  world: c4342da6-f0d4-45e0-823a-22d7be8acdf3
+  world-name: world
+  x: -215.29084472925973
+  y: 64.0
+  z: -60.63595359546742
+  yaw: 5.700004577636719
+  pitch: 0.44999200105667114

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730615403782
+  login: 1730615394388
+money: '0'
+last-account-name: riggererer
+logoutlocation:
+  world: c4342da6-f0d4-45e0-823a-22d7be8acdf3
+  world-name: world
+  x: -218.75858712994784
+  y: 67.0
+  z: -81.60800410958743
+  yaw: 252.6000213623047
+  pitch: 35.250003814697266

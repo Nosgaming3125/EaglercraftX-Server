@@ -1,0 +1,29 @@
+NOSgaming3125:
+  world:
+    xp: 0.0
+    xpl: 9
+    health: 20.0
+    hunger: 20
+    a: {}
+    i:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        type: SIGN
+        amount: 2
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD
+  creative:
+    xp: 0.0
+    xpl: 9
+    health: 20.0
+    hunger: 20
+    a: {}
+    i: {}
+  Survival:
+    xp: 0.0
+    xpl: 9
+    health: 20.0
+    hunger: 20
+    a: {}
+    i: {}

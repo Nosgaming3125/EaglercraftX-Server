@@ -4,3 +4,17 @@ entrypoint = "main.sh"
 
 [nix]
 channel = "stable-22_11"
+
+[[ports]]
+localPort = 8081
+externalPort = 80
+
+[[ports]]
+localPort = 25565
+externalPort = 4200
+exposeLocalhost = true
+
+[[ports]]
+localPort = 25577
+externalPort = 6000
+exposeLocalhost = true

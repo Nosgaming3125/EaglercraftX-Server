@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.194.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730744552826
+  login: 1730744395713
+money: '0'
+last-account-name: Gavin12340
+lastlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -524.2359233486055
+  y: 68.0
+  z: 10041.687292370081
+  yaw: -194.2499237060547
+  pitch: 11.699993133544922
+logoutlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -489.18228243560014
+  y: 73.15812603938966
+  z: 10059.867149487736
+  yaw: 326.5501403808594
+  pitch: 23.9999942779541

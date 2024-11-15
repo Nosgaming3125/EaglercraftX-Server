@@ -1,0 +1,104 @@
+world--215-66--58:
+  sign:
+    world: world
+    x: -215.0
+    y: 66.0
+    z: -58.0
+  cmds:
+    '1':
+      cmd: 'mv tp creative '
+      sender: SERVER
+    '2':
+      cmd: 'mv NOSgaming3125 tp creative '
+      sender: SERVER
+    '3':
+      cmd: 'mv tp NOSgaming3125 creative '
+      sender: SERVER
+  delay:
+    time: 0
+    sender: PLAYER
+  price: 0.0
+world--215-65--58:
+  sign:
+    world: world
+    x: -215.0
+    y: 65.0
+    z: -58.0
+  cmds:
+    '1':
+      cmd: 'lobby '
+      sender: PLAYER
+  delay:
+    time: 0
+    sender: PLAYER
+  price: 0.0
+creative--506-70-10000:
+  sign:
+    world: creative
+    x: -506.0
+    y: 70.0
+    z: 10000.0
+  cmds:
+    '1':
+      cmd: 'tp -529 68 10038 '
+      sender: PLAYER
+  delay:
+    time: 0
+    sender: PLAYER
+  price: 0.0
+creative--515-70-10010:
+  sign:
+    world: creative
+    x: -515.0
+    y: 70.0
+    z: 10010.0
+  cmds:
+    '1':
+      cmd: 'tp -529 68 10038 '
+      sender: PLAYER
+  delay:
+    time: 0
+    sender: PLAYER
+  price: 0.0
+creative--496-69-10000:
+  sign:
+    world: creative
+    x: -496.0
+    y: 69.0
+    z: 10000.0
+  cmds:
+    '1':
+      cmd: 'lobby '
+      sender: PLAYER
+  delay:
+    time: 0
+    sender: PLAYER
+  price: 0.0
+Survival--122-73-1316:
+  sign:
+    world: Survival
+    x: -122.0
+    y: 73.0
+    z: 1316.0
+  cmds:
+    '1':
+      cmd: 'lobby '
+      sender: PLAYER
+  delay:
+    time: 0
+    sender: PLAYER
+  price: 0.0
+creative--533-104-10150:
+  sign:
+    world: creative
+    x: -533.0
+    y: 104.0
+    z: 10150.0
+  cmds:
+    '1':
+      cmd: 'tp -529 68 10038 '
+      sender: PLAYER
+  delay:
+    time: 0
+    sender: PLAYER
+  price: 0.0

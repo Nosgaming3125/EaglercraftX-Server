@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.194.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1730746263220
+  login: 1730746228227
+money: '0'
+last-account-name: connor_admin
+logoutlocation:
+  world: 162cbda6-e29e-4abd-9486-0e5a6678f814
+  world-name: creative
+  x: -528.6226762736264
+  y: 72.5
+  z: 10044.962137151793
+  yaw: -23.99985694885254
+  pitch: 14.249992370605469
+lastlocation:
+  world: c4342da6-f0d4-45e0-823a-22d7be8acdf3
+  world-name: world
+  x: -214.70961955839303
+  y: 64.0
+  z: -60.142339334761274
+  yaw: 108.90006256103516
+  pitch: 90.0

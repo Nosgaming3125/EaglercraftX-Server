@@ -1,7 +1,7 @@
 listener_01:
   address: 0.0.0.0:8081
   address_v6: 'null'
-  max_players: 60
+  max_players: 100
   tab_list: GLOBAL_PING
   default_server: lobby
   force_default_server: false
@@ -12,6 +12,7 @@ listener_01:
   server_motd:
   - '&6An EaglercraftX server'
   allow_motd: true
+  allow_voice: true
   allow_query: true
   request_motd_cache:
     cache_ttl: 7200
@@ -46,7 +47,7 @@ listener_01:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
     motd:
-      enable: false
+      enable: true
       period: 30
       limit: 5
       limit_lockout: 15
@@ -55,7 +56,7 @@ listener_01:
       - '127.*'
       - '0:0:0:0:0:0:0:1'
     query:
-      enable: false
+      enable: true
       period: 30
       limit: 15
       limit_lockout: 25
